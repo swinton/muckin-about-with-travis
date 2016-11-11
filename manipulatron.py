@@ -22,3 +22,9 @@ def strip(s):
     The Amazing Manipulatron's version of s.strip
     """
     return s.strip()
+
+def knights_say_ni():
+    """
+    The Knights of Ni say Ni!
+    """
+    return "ni"
