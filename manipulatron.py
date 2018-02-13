@@ -22,3 +22,10 @@ def strip(s):
     The Amazing Manipulatron's version of s.strip
     """
     return s.strip()
+
+
+def title(s):
+    """
+    The Amazing Manipulatron's version of s.title
+    """
+    return s
