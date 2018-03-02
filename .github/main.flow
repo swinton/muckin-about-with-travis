@@ -1,4 +1,5 @@
 task "ci" {
+  # do comments work
   use = "travis"
   config = ".travis.yml"
 }
