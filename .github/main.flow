@@ -1,0 +1,4 @@
+task "ci" {
+  use = "travis"
+  config = ".travis.yml"
+}
